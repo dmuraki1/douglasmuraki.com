@@ -1,11 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://douglasmuraki.com/</loc>
     <lastmod>2026-11-17</lastmod>
   </url>
   <url>
+    <loc>https://douglasmuraki.com/about/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
     <loc>https://douglasmuraki.com/sunfish-pool-service/</loc>
     <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://douglasmuraki.com/italy-2024/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <image:image><image:loc>https://douglasmuraki.com/photos/italy-2024-01.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/italy-2024-02.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/italy-2024-03.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/italy-2024-04.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/italy-2024-05.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/italy-2024-06.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/italy-2024-07.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/italy-2024-08.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/italy-2024-09.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/italy-2024-10.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/italy-2024-11.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/italy-2024-12.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://douglasmuraki.com/japan-2023/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <image:image><image:loc>https://douglasmuraki.com/photos/japan-2023-01.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/japan-2023-02.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/japan-2023-03.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/japan-2023-04.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/japan-2023-05.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/japan-2023-06.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/japan-2023-07.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/japan-2023-08.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/japan-2023-09.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/japan-2023-10.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/japan-2023-11.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/japan-2023-12.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/japan-2023-13.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/japan-2023-14.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://douglasmuraki.com/new-york/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <image:image><image:loc>https://douglasmuraki.com/photos/new-york-01.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/new-york-02.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/new-york-03.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/new-york-04.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/new-york-05.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://douglasmuraki.com/san-francisco-2023/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <image:image><image:loc>https://douglasmuraki.com/photos/san-francisco-2023-01.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/san-francisco-2023-02.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/san-francisco-2023-03.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/san-francisco-2023-04.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/san-francisco-2023-05.jpg</image:loc></image:image>
   </url>
 </urlset>

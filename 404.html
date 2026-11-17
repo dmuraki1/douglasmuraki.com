@@ -52,11 +52,29 @@ ul.links a:hover{border-color:var(--coral)}
 footer{margin-top:3.5rem;padding:2rem 0 3rem;border-top:1px solid var(--line);color:var(--ink-soft);font-family:"Segoe UI",Roboto,system-ui,sans-serif;font-size:0.9rem}
 @media (max-width:36rem){.top{grid-template-columns:1fr;gap:1.25rem;padding-top:2rem}.top img{width:8.5rem;height:8.5rem}dl.facts{grid-template-columns:1fr;gap:0.15rem}dl.facts dd{margin-bottom:0.7rem}}
 </style>
+<style>
+.wide{max-width:68rem}
+.hero2{padding:3.25rem 0 1.5rem}
+.hero2 h1{font-size:clamp(2.6rem,7vw,4.6rem)}
+.hero2 .sub{max-width:40ch}
+.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.5rem;margin:1.5rem 0 0;padding:0;list-style:none}
+.cards a{display:block;text-decoration:none;border-radius:14px;overflow:hidden;background:var(--paper-2)}
+.cards img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover}
+.cards .t{display:block;padding:0.9rem 1.1rem 0.2rem;font-family:"Segoe UI",Roboto,system-ui,sans-serif;font-weight:700;font-size:1.15rem}
+.cards .m{display:block;padding:0 1.1rem 1rem;font-family:"Segoe UI",Roboto,system-ui,sans-serif;font-size:0.92rem;color:var(--ink-soft)}
+.cards a:hover .t{color:var(--coral)}
+.grid{columns:3 16rem;column-gap:1rem;margin:2rem 0 0}
+.grid figure{break-inside:avoid;margin:0 0 1rem;background:var(--paper-2);border-radius:10px;overflow:hidden}
+.grid img{width:100%;height:auto}
+.grid figcaption{padding:0.6rem 0.8rem 0.75rem;font-family:"Segoe UI",Roboto,system-ui,sans-serif;font-size:0.9rem;line-height:1.4}
+.pn{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin-top:2.5rem;padding-top:1.5rem;border-top:1px solid var(--line);font-family:"Segoe UI",Roboto,system-ui,sans-serif}
+@media (max-width:36rem){.cards{grid-template-columns:1fr}}
+</style>
 </head>
 <body>
-<header><div class="wrap"><a class="name" href="/">Douglas Muraki</a><nav aria-label="Site"><a href="/#profile">Profile</a><a href="/sunfish-pool-service/">Sunfish Pool Service</a><a href="/#questions">Questions</a><a href="/#elsewhere">Elsewhere</a></nav></div></header>
+<header><div class="wrap"><a class="name" href="/">Douglas Muraki</a><nav aria-label="Site"><a href="/#trips">Trips</a><a href="/about/">About</a><a href="/sunfish-pool-service/">Sunfish Pool Service</a></nav></div></header>
 <main><div class="wrap">
-<div style='padding:4rem 0'><h1>Page not found</h1><p>That page is not here. The profile is on the <a href='/'>home page</a>.</p></div>
+<div style='padding:4rem 0'><h1>Page not found</h1><p>That page is not here. The trips are on the <a href='/'>home page</a>.</p></div>
 </div></main>
 <footer><div class="wrap">Douglas Muraki, Sacramento, California. Sunfish Pool Service is operated by The Village Tree LLC.</div></footer>
 </body>
