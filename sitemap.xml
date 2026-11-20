@@ -107,4 +107,12 @@
     <image:image><image:loc>https://douglasmuraki.com/photos/honolulu-2024-06.jpg</image:loc></image:image>
     <image:image><image:loc>https://douglasmuraki.com/photos/honolulu-2024-07.jpg</image:loc></image:image>
   </url>
+  <url>
+    <loc>https://douglasmuraki.com/mendocino/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <image:image><image:loc>https://douglasmuraki.com/photos/mendocino-01.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/mendocino-02.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/mendocino-03.jpg</image:loc></image:image>
+    <image:image><image:loc>https://douglasmuraki.com/photos/mendocino-04.jpg</image:loc></image:image>
+  </url>
 </urlset>
